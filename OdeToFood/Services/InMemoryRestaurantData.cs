@@ -14,7 +14,7 @@ namespace OdeToFood.Services
             {
                 new Restaurant { Id = 1, Name = "Hickory Falls" },
                 new Restaurant { Id = 2, Name = "Pizza Hut" },
-                new Restaurant { Id = 2, Name = "Oscar's Taco Shop"}
+                new Restaurant { Id = 3, Name = "Oscar's Taco Shop"}
             };
         }
 

@@ -21,3 +21,6 @@ D:\VisualStudio\repo\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Hom
 D:\VisualStudio\repo\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cs
 D:\VisualStudio\repo\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.Views.pdb
 D:\VisualStudio\repo\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
+D:\VisualStudio\repo\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
+D:\VisualStudio\repo\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\_ViewImports.g.cshtml.cs
+D:\VisualStudio\repo\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
